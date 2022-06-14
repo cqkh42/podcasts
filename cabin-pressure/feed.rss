@@ -49,5 +49,61 @@
       <itunes:duration>28:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Cremona</title>
+      <itunes:title>Cremona</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Arthur is struck dumb when a film star joins the flight, and Douglas has to disguise 30 knights of Camelot in a hurry.</description>
+      <enclosure length="26869677" type="audio/mp3" url="https://archive.org/download/cabinpressures01e05edinburgh/Cabin%20Pressure%20-%20S01%20-%20E03%20-%20Cremona.mp3"/>
+      <guid>https://archive.org/download/cabinpressures01e05edinburgh/Cabin%20Pressure%20-%20S01%20-%20E03%20-%20Cremona.mp3</guid>
+      <comments></comments>
+      <pubDate>Wed, 16 Jul 2008 00:00:00 +0000</pubDate>
+      <itunes:duration>27:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Douz</title>
+      <itunes:title>Douz</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>The air crew dodge a fuel and financial crisis with the aid of the Scottish cricket team.</description>
+      <enclosure length="26804052" type="audio/mp3" url="https://archive.org/download/cabinpressures01e05edinburgh/Cabin%20Pressure%20-%20S01%20-%20E04%20-%20Douz.mp3"/>
+      <guid>https://archive.org/download/cabinpressures01e05edinburgh/Cabin%20Pressure%20-%20S01%20-%20E04%20-%20Douz.mp3</guid>
+      <comments></comments>
+      <pubDate>Wed, 23 Jul 2008 00:00:00 +0000</pubDate>
+      <itunes:duration>27:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Edinburgh</title>
+      <itunes:title>Edinburgh</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>A very special passenger makes Douglas grovel, Martin crawl, Carolyn frisk and Arthur cry and drink nail varnish.</description>
+      <enclosure length="26914403" type="audio/mp3" url="https://archive.org/download/cabinpressures01e05edinburgh/Cabin%20Pressure%20-%20S01%20-%20E05%20-%20Edinburgh.mp3"/>
+      <guid>https://archive.org/download/cabinpressures01e05edinburgh/Cabin%20Pressure%20-%20S01%20-%20E05%20-%20Edinburgh.mp3</guid>
+      <comments></comments>
+      <pubDate>Wed, 30 Jul 2008 00:00:00 +0000</pubDate>
+      <itunes:duration>28:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Fitton</title>
+      <itunes:title>Fitton</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>The crew are grounded, so Arthur shares a secret and Carolyn learns about air hostesses.</description>
+      <enclosure length="26890573" type="audio/mp3" url="https://archive.org/download/cabinpressures01e05edinburgh/Cabin%20Pressure%20-%20S01%20-%20E06%20-%20Fitton.mp3"/>
+      <guid>https://archive.org/download/cabinpressures01e05edinburgh/Cabin%20Pressure%20-%20S01%20-%20E06%20-%20Fitton.mp3</guid>
+      <comments></comments>
+      <pubDate>Wed, 6 Aug 2008 00:00:00 +0000</pubDate>
+      <itunes:duration>28:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
