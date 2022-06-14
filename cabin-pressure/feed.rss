@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cabin Pressure</title>
+    <link>https://github.com/cqkh42/podcasts/cabin-pressure</link>
+    <link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/cqkh42/podcasts/master/cabin-pressure/feed.rss" />
+    <language>en-us</language>
+    <copyright></copyright>
+    <itunes:author>Jack Cooper</itunes:author>
+    <description>Sitcom about the pilots of a tiny charter airline for whom no job is too small and many jobs are too difficult.</description>
+    <itunes:type></itunes:type>
+    <itunes:owner>
+      <itunes:name>Jack Cooper</itunes:name>
+      <itunes:email>jackcooper93@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://github.com/cqkh42/podcasts/raw/master/cabin-pressure/cover.jpeg" />
+    <image>
+      <link>https://github.com/cqkh42/podcasts/cabin-pressure</link>
+      <title>Cabin Pressure</title>
+      <url>https://github.com/cqkh42/podcasts/raw/master/cabin-pressure/cover.jpeg</url>
+    </image>
+    <itunes:category text="Comedy" />
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Abu Dhabi</title>
+      <itunes:title>Abu Dhabi</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>The town of Bristol, a cat and a thermostat combine to present Martin with a career-breaking crisis.</description>
+      <enclosure length="26880546" type="audio/mp3" url="https://archive.org/download/cabinpressures01e05edinburgh/Cabin%20Pressure%20-%20S01%20-%20E01%20-%20Abu%20Dhabi.mp3"/>
+      <guid>https://archive.org/download/cabinpressures01e05edinburgh/Cabin%20Pressure%20-%20S01%20-%20E01%20-%20Abu%20Dhabi.mp3</guid>
+      <comments></comments>
+      <pubDate>Wed, 2 Jul 2008 00:00:00 +0000</pubDate>
+      <itunes:duration>28:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
