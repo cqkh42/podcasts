@@ -17,7 +17,7 @@
     <image>
       <link>https://github.com/cqkh42/podcasts/cabin-pressure</link>
       <title>Cabin Pressure</title>
-      <url>https://raw.githubusercontent.com/cqkh42/podcasts/master/cabin-pressure.jpeg/url>
+      <url>https://raw.githubusercontent.com/cqkh42/podcasts/master/cabin-pressure.jpeg</url>
     </image>
     <itunes:category text="Comedy" />
     <itunes:explicit>false</itunes:explicit>
