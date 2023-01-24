@@ -25,13 +25,19 @@
       <title>Chapter 1</title>
       <itunes:title>Chapter 1</itunes:title>
       <itunes:episode>1</itunes:episode>
-      <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <description>Chapter 1</description>
       <enclosure length="28800237" type="audio/mp3" url="https://ipaudio4.com/wp-content/uploads/BIG/Martian/01.mp3"/>
-      <guid>https://ipaudio4.com/wp-content/uploads/BIG/Martian/01.mp3</guid>
-      <comments></comments>
-      <pubDate>Wed, 6 Aug 2008 00:00:00 +0000</pubDate>
+      <itunes:duration>1:00:00</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Chapter 2</title>
+      <itunes:title>Chapter 2</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Chapter 2</description>
+      <enclosure length="28800237" type="audio/mp3" url="https://ipaudio4.com/wp-content/uploads/BIG/Martian/02.mp3"/>
       <itunes:duration>1:00:00</itunes:duration>
       <itunes:explicit>true</itunes:explicit>
     </item>
