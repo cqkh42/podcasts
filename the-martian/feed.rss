@@ -41,5 +41,95 @@
       <itunes:duration>1:00:00</itunes:duration>
       <itunes:explicit>true</itunes:explicit>
     </item>
+    <item>
+      <title>Chapter 3</title>
+      <itunes:title>Chapter 3</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Chapter 3</description>
+      <enclosure length="28800237" type="audio/mp3" url="https://ipaudio4.com/wp-content/uploads/BIG/Martian/03.mp3"/>
+      <itunes:duration>1:00:00</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Chapter 4</title>
+      <itunes:title>Chapter 4</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Chapter 4</description>
+      <enclosure length="28800237" type="audio/mp3" url="https://ipaudio4.com/wp-content/uploads/BIG/Martian/04.mp3"/>
+      <itunes:duration>1:00:00</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Chapter 5</title>
+      <itunes:title>Chapter 5</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Chapter 5</description>
+      <enclosure length="28800237" type="audio/mp3" url="https://ipaudio4.com/wp-content/uploads/BIG/Martian/05.mp3"/>
+      <itunes:duration>1:00:00</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Chapter 6</title>
+      <itunes:title>Chapter 6</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Chapter 6</description>
+      <enclosure length="28800237" type="audio/mp3" url="https://ipaudio4.com/wp-content/uploads/BIG/Martian/06.mp3"/>
+      <itunes:duration>1:00:00</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Chapter 7</title>
+      <itunes:title>Chapter 7</itunes:title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Chapter 7</description>
+      <enclosure length="28800237" type="audio/mp3" url="https://ipaudio4.com/wp-content/uploads/BIG/Martian/07.mp3"/>
+      <itunes:duration>1:00:00</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Chapter 8</title>
+      <itunes:title>Chapter 8</itunes:title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Chapter 8</description>
+      <enclosure length="28800237" type="audio/mp3" url="https://ipaudio4.com/wp-content/uploads/BIG/Martian/08.mp3"/>
+      <itunes:duration>1:00:00</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Chapter 9</title>
+      <itunes:title>Chapter 9</itunes:title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Chapter 9</description>
+      <enclosure length="28800237" type="audio/mp3" url="https://ipaudio4.com/wp-content/uploads/BIG/Martian/09.mp3"/>
+      <itunes:duration>1:00:00</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Chapter 10</title>
+      <itunes:title>Chapter 10</itunes:title>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Chapter 10</description>
+      <enclosure length="28800237" type="audio/mp3" url="https://ipaudio4.com/wp-content/uploads/BIG/Martian/10.mp3"/>
+      <itunes:duration>1:00:00</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Chapter 11</title>
+      <itunes:title>Chapter 11</itunes:title>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Chapter 11</description>
+      <enclosure length="24737984" type="audio/mp3" url="https://ipaudio4.com/wp-content/uploads/BIG/Martian/11.mp3"/>
+      <itunes:duration>1:00:00</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
   </channel>
 </rss>
