@@ -5,13 +5,13 @@
     <link>https://github.com/cqkh42/podcasts/the-martian</link>
     <link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/cqkh42/podcasts/main/ready-player-one/feed.rss"/>
     <language>en-us</language>
-    <itunes:author>Ernest Cline</itunes:author>
+    <author>Ernest Cline</author>
     <image>
       <link>https://github.com/cqkh42/podcasts/ready-player-one</link>
       <title>Ready Player One</title>
       <url>https://raw.githubusercontent.com/cqkh42/podcasts/main/ready-player-one/cover.jpeg</url>
     </image>
-    <itunes:category text="Audiobook"/>
+    <category text="Audiobook"/>
     <item>
       <title>Part 1</title>
       <episode>1<episode>
