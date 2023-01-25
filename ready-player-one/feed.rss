@@ -14,7 +14,7 @@
     <category text="Audiobook"/>
     <item>
       <title>Part 1</title>
-      <episode>1<episode>
+      <episode>1</episode>
       <description>Part 1</description>
       <enclosure length="28800237" type="audio/mp3" url="https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/01.mp3"/>
       <guid>https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/01.mp3</guid>
