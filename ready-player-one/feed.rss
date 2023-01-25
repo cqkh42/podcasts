@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Martian</title>
+    <link>https://github.com/cqkh42/podcasts/the-martian</link>
+    <link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/cqkh42/podcasts/main/ready-player-one/feed.rss" />
+    <language>en-us</language>
+    <itunes:author>Ernest Cline</itunes:author>
+    <description>Ready Player One</description>
+    <itunes:image href="https://raw.githubusercontent.com/cqkh42/podcasts/main/ready-player-one/cover.jpg" />
+    <image>
+      <link>https://github.com/cqkh42/podcasts/ready-player-one</link>
+      <title>Ready Player One</title>
+      <url>https://raw.githubusercontent.com/cqkh42/podcasts/main/ready-player-one/cover.jpg</url>
+    </image>
+    <itunes:category text="Audiobook" />
+    <item>
+      <title>Part 1</title>
+      <episode>1<episode>
+      <description>Part 1</description>
+      <enclosure length="28800237" type="audio/mp3" url="https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/01.mp3"/>
+      <guid>https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/01.mp3</guid>
+      <duration>1:00:00<duration>
+      <pubDate>Wed, 6 Aug 2008 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
