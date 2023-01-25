@@ -7,11 +7,11 @@
     <language>en-us</language>
     <itunes:author>Ernest Cline</itunes:author>
     <description>Ready Player One</description>
-    <itunes:image href="https://raw.githubusercontent.com/cqkh42/podcasts/main/ready-player-one/cover.jpg" />
+    <itunes:image href="https://raw.githubusercontent.com/cqkh42/podcasts/main/ready-player-one/cover.jpeg" />
     <image>
       <link>https://github.com/cqkh42/podcasts/ready-player-one</link>
       <title>Ready Player One</title>
-      <url>https://raw.githubusercontent.com/cqkh42/podcasts/main/ready-player-one/cover.jpg</url>
+      <url>https://raw.githubusercontent.com/cqkh42/podcasts/main/ready-player-one/cover.jpeg</url>
     </image>
     <itunes:category text="Audiobook" />
     <item>
