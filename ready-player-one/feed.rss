@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ready Player One</title>
-    <link>https://en.wikipedia.org/wiki/Ready_Player_One</link>
     <language>en-us</language>
     <itunes:author>Ernest Cline</itunes:author>
     <image>
@@ -17,7 +16,7 @@
       <description>Part 1</description>
       <enclosure length="36000436" type="audio/mp3" url="https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/01.mp3"/>
       <guid>https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/01.mp3</guid>
-      <duration>1:00:00</duration>
+      <itunes:duration>1:00:00</itunes:duration>
       <pubDate>Sun, 1 Jan 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -26,8 +25,17 @@
       <description>Part 2</description>
       <enclosure length="36000176" type="audio/mp3" url="https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/02.mp3"/>
       <guid>https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/02.mp3</guid>
-      <duration>1:00:00</duration>
+      <itunes:duration>1:00:00</itunes:duration>
       <pubDate>Mon, 2 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Part 3</title>
+      <episode>3</episode>
+      <description>Part 3</description>
+      <enclosure length="36000436" type="audio/mp3" url="https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/03.mp3"/>
+      <guid>https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/03.mp3</guid>
+      <itunes:duration>1:00:00</itunes:duration>
+      <pubDate>Tue, 3 Jan 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
