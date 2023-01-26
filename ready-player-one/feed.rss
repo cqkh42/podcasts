@@ -37,5 +37,122 @@
       <itunes:duration>1:00:00</itunes:duration>
       <pubDate>Tue, 3 Jan 2023 00:00:00 +0000</pubDate>
     </item>
+    <item>
+      <title>Part 4</title>
+      <itunes:episode>4</itunes:episode>
+      <description>Part 4</description>
+      <enclosure length="36000175" type="audio/mp3" url="https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/04.mp3"/>
+      <guid>https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/04.mp3</guid>
+      <itunes:duration>1:00:00</itunes:duration>
+      <pubDate>Wed, 4 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Part 5</title>
+      <itunes:episode>5</itunes:episode>
+      <description>Part 5</description>
+      <enclosure length="36000437" type="audio/mp3" url="https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/05.mp3"/>
+      <guid>https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/05.mp3</guid>
+      <itunes:duration>1:00:00</itunes:duration>
+      <pubDate>Thu, 5 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Part 6</title>
+      <itunes:episode>6</itunes:episode>
+      <description>Part 6</description>
+      <enclosure length="36000176" type="audio/mp3" url="https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/06.mp3"/>
+      <guid>https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/06.mp3</guid>
+      <itunes:duration>1:00:00</itunes:duration>
+      <pubDate>Fri, 6 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Part 7</title>
+      <itunes:episode>7</itunes:episode>
+      <description>Part 7</description>
+      <enclosure length="36000437" type="audio/mp3" url="https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/07.mp3"/>
+      <guid>https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/07.mp3</guid>
+      <itunes:duration>1:00:00</itunes:duration>
+      <pubDate>Sat, 7 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Part 8</title>
+      <itunes:episode>8</itunes:episode>
+      <description>Part 8</description>
+      <enclosure length="36000175" type="audio/mp3" url="https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/08.mp3"/>
+      <guid>https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/08.mp3</guid>
+      <itunes:duration>1:00:00</itunes:duration>
+      <pubDate>Sun, 8 Jan 2023 00:00:00 +0000</pubDate>
+    </item> 
+    <item>
+      <title>Part 9</title>
+      <itunes:episode>9</itunes:episode>
+      <description>Part 9</description>
+      <enclosure length="36000438" type="audio/mp3" url="https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/09.mp3"/>
+      <guid>https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/09.mp3</guid>
+      <itunes:duration>1:00:00</itunes:duration>
+      <pubDate>Mon, 9 Jan 2023 00:00:00 +0000</pubDate>
+    </item> 
+    <item>
+      <title>Part 10</title>
+      <itunes:episode>10</itunes:episode>
+      <description>Part 10</description>
+      <enclosure length="36000175" type="audio/mp3" url="https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/10.mp3"/>
+      <guid>https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/10.mp3</guid>
+      <itunes:duration>1:00:00</itunes:duration>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+    </item> 
+    <item>
+      <title>Part 11</title>
+      <itunes:episode>11</itunes:episode>
+      <description>Part 11</description>
+      <enclosure length="36000437" type="audio/mp3" url="https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/11.mp3"/>
+      <guid>https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/11.mp3</guid>
+      <itunes:duration>1:00:00</itunes:duration>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+    </item> 
+    <item>
+      <title>Part 12</title>
+      <itunes:episode>12</itunes:episode>
+      <description>Part 12</description>
+      <enclosure length="32854447" type="audio/mp3" url="https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/12.mp3"/>
+      <guid>https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/12.mp3</guid>
+      <itunes:duration>1:00:00</itunes:duration>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+    </item> 
+    <item>
+      <title>Part 13</title>
+      <itunes:episode>13</itunes:episode>
+      <description>Part 13</description>
+      <enclosure length="36000437" type="audio/mp3" url="https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/13.mp3"/>
+      <guid>https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/13.mp3</guid>
+      <itunes:duration>1:00:00</itunes:duration>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+    </item> 
+    <item>
+      <title>Part 14</title>
+      <itunes:episode>14</itunes:episode>
+      <description>Part 14</description>
+      <enclosure length="36000176" type="audio/mp3" url="https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/14.mp3"/>
+      <guid>https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/14.mp3</guid>
+      <itunes:duration>1:00:00</itunes:duration>
+      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
+    </item> 
+    <item>
+      <title>Part 15</title>
+      <itunes:episode>15</itunes:episode>
+      <description>Part 15</description>
+      <enclosure length="36000437" type="audio/mp3" url="https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/15.mp3"/>
+      <guid>https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/15.mp3</guid>
+      <itunes:duration>1:00:00</itunes:duration>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+    </item> 
+    <item>
+      <title>Part 16</title>
+      <itunes:episode>16</itunes:episode>
+      <description>Part 16</description>
+      <enclosure length="24435244" type="audio/mp3" url="https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/16.mp3"/>
+      <guid>https://ipaudio.club/wp-content/uploads/GOLN/Ready%20Player%20One/16.mp3</guid>
+      <itunes:duration>40:43</itunes:duration>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+    </item> 
   </channel>
 </rss>
