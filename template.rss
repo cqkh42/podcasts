@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>{{ podcast.title }}</title>
+    <link>{{ podcast.info_url }}</link>
+    <link rel="self" type="application/rss+xml" href="{{ podcast.feed_url }}"/>
+    <language>en-us</language>
+    <copyright></copyright>
+    <itunes:author>{{ podcast.author }}</itunes:author>
+    <description>{{ podcast.description }}</description>
+    <itunes:type></itunes:type>
+    <itunes:owner>
+      <itunes:name>{{ podcast.author }}</itunes:name>
+      <itunes:email>{{ podcast.author_email }}</itunes:email>
+    </itunes:owner>
+    <itunes:image href="{{ podcast.image_url }}" />
+    <image>
+      <link>{{ podcast.info_url }}</link>
+      <title>{{ podcast.title }}</title>
+      <url>{{ podcast.image_url }}</url>
+    </image>
+    <itunes:category text="{{ podcast.genre }}"/>
+    <itunes:explicit>{{ podcast.is_explicit }}</itunes:explicit>
+    {% for episode in episodes %}
+     <item>
+      <title>{{ episode.title }}</title>
+      <itunes:title>{{ episode.title }}</itunes:title>
+      <itunes:episode>{{ episode.episode_number }}</itunes:episode>
+      <itunes:season>{{ episode.season_number }}</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>{{ episode.description }}</description>
+      <enclosure length="{{ episode.file_size }}" type="audio/mp3" url="{{ episode.url }}"/>
+      <guid>{{ episode.url }}</guid>
+      <comments></comments>
+      <pubDate>{{ episode.publication_date }}</pubDate>
+      <itunes:duration>{{ episode.duration }}</itunes:duration>
+      <itunes:explicit>{{ episode.is_explicit }}</itunes:explicit>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
